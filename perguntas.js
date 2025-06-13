@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Curiosidade'
+    'Curiosidade',
     'Cidade paranaense conhecida como a Capital Ecológica do Brasil.',
     'Curitiba, a capital do Paraná, é famosa por esse título! A cidade se destaca por seu planejamento urbano inovador e por ser um exemplo global em sustentabilidade. '
    
