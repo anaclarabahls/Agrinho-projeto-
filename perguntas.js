@@ -13,7 +13,6 @@ criaCartao(
 criaCartao(
     'Curiosidade',
     'O "som do silêncio" é bem barulhento.'
-    'O "som do silêncio" é bem barulhento.'
    
 )
 
