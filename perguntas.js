@@ -1,36 +1,36 @@
 criaCartao(
-    'Cultura',
-    'Como é a cultura?',
-    'rica e diversa, é o resultado da mistura de costumes e tradições de diversos grupos étnicos que povoaram o estado.'
+    'Benefício de se morar no campo',
+    'Mais qualidade de vida',
+    'O ritmo de vida costuma ser mais tranquilo, com menos poluição sonora e do ar, o que contribui para a saúde física e mental. Há mais oportunidades para atividades ao ar livre e contato com a natureza, reduzindo o estresse.' 
 )
 
 criaCartao(
-    'Culinária',
-    'Como é a culinária?',
-    'A culinária paranaense, com influência das tradições indígenas, portuguesas e de imigrantes, é rica em sabores e técnicas de preparo. São exemplos da diversidade e do potencial gastronômico do estado. '
+    'Benfícios de se morar na cidade',
+    'Acesso facilitado a serviços e conveniências',
+    'Nas cidades, geralmente encontramos uma grande variedade de serviços como hospitais, escolas, bancos, supermercados e farmácias, muitas vezes com horários flexíveis e localizações convenientes. O transporte público costuma ser mais abrangente, facilitando a locomoção.'
 )
 
 criaCartao(
-    'Turismo',
-    'Tem muitos pontos turisticos?',
-    'Sim, Cataratas do Iguaçu, a Usina Hidrelétrica de Itaipu, o Parque das Aves, o Jardim Botânico de Curitiba e a Ilha do Mel, entre outros.'
+    'Curiosidade',
+    'O "som do silêncio" é bem barulhento.'
+   
 )
 
 criaCartao(
-    'Gírias',
-    'Existem muitas gírias locais?',
-    'Sim,  mais comuns incluem "piá" (menino, jovem), "guria" (menina, jovem), "baita" (grande, impressionante), "treta" (confusão, problema) e "capaz" (usado para surpresa ou negação)'
+    'Malefícios de se morar no campo',
+    'Acesso limitado a serviços e conveniências',
+    'No campo, pode haver uma menor disponibilidade de serviços básicos como hospitais especializados, grandes supermercados, agências bancárias e opções de lazer e cultura. A distância para centros urbanos pode dificultar o acesso a esses serviços.'
 )
 
 criaCartao(
-    'Clima',
-    'E o clima como é?',
-    'O clima predominante no Paraná é subtropical úmido, com temperaturas amenas e chuvas bem distribuídas ao longo do ano. '
+    'Malefícios de se morar na cidade',
+    'Alto custo de vida',
+    'Em geral, o custo de vida nas cidades, especialmente nas grandes metrópoles, tende a ser mais elevado. Isso inclui moradia (aluguel ou financiamento), transporte, alimentação e serviços, o que pode impactar significativamente o orçamento.'
 )
 
 
 criaCartao(
-    'Animais',
-    'Existem animais nativos?',
-    'Sim, por exemplo, Gralha-azul, a Raposa-dos-Pampas, a Jaguatirica, o Guaxinim, o Lobo-guará, o Papagaio-da-cara-roxa e o Guará. '
+    'Curiosidade',
+    'A "selva de pedra" também tem seus refúgios verdes',
+    'Apesar da grande quantidade de prédios e concreto, muitas cidades investem em espaços verdes como parques, praças e jardins. Esses oásis urbanos oferecem um respiro da agitação, proporcionando áreas para lazer, exercícios e contato com a natureza no meio da vida urbana.'
 )
